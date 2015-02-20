@@ -14,6 +14,6 @@ These are the 6 activities measured by the smartphone. Instead of using numbers 
 
 To reduce the given 561 measurements to mean and standard deviation measurements as instructed, I extracted those columns whose names included "mean" or "std". This cut the number down to 79.
 
-I did not change the given column names although their values changed to the mean of the readings for each subject as they did one of the 6 measured activities.
+I did not change the given column names although their values changed to the mean of the readings for each subject as they did each of the 6 measured activities.
 
 
