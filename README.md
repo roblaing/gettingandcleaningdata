@@ -29,7 +29,7 @@ You should see something similar if you run:
 
 # Code Book
 
-I've added two columns to the original 561 found in train/X_train.txt and test/X_test.txt and named in features.txt. 
+I've added two columns to the original 561 (reduced to 79 by only keeping those with "mean" or "std" in their names) found in train/X_train.txt and test/X_test.txt and named in features.txt. 
 
 ### subject
 
